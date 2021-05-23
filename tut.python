@@ -1,0 +1,11 @@
+class Mobile:
+    def__init__(self):
+        self.model ='RealMe X'
+
+    def show_model(self):
+        print("model:".self.model)
+
+
+realme =Mobile()
+
+realme.show_model()
